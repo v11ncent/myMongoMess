@@ -1,0 +1,14 @@
+{
+  "name": "coronode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vince1444 <vince1444dev@gmail.com> (https://github.com/vince1444)",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
